@@ -151,8 +151,8 @@ The final part refers to the component or material after undergoing heat treatme
 
 ## Output:
 
-### Name: ABINAYA S
-### Register Number: 212222230002
+### Name: VIKASH S
+### Register Number: 212222240115
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
